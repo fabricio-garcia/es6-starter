@@ -12,6 +12,7 @@
     "jsx-quotes": [2, "prefer-single"],
     "no-console": "off",
     "no-inline-comments": "off",
+    "no-unused-vars": "warn",
     "prettier/prettier": ["error"],
     "quotes": [2, "single", { "avoidEscape": true }],
     "react/jsx-filename-extension": 0,
